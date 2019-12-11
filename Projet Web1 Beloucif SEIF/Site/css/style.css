@@ -529,7 +529,7 @@ header {
 /* Rangée de produits */
 
 .row {
-  width: 80%;
+  width: 85%;
   max-width: 160rem;
   display: flex;
   flex-direction: row;
@@ -652,7 +652,7 @@ header {
   color: #fff;
   text-decoration: none;
   margin: 0 auto;
-  width: 25%;
+  width: 30%;
   letter-spacing: 1px;
   margin-bottom: 10%;
 }
